@@ -1,0 +1,36 @@
+#d1{
+    width: 100px;
+    height: 150px;
+    background-color: #FF0000;
+    display: inline-block;
+}
+#d2{
+    width: 100px;
+    height: 150px;
+    background-color: #FAFF00;
+    display: inline-block;
+}
+#d3{
+    width: 100px;
+    height: 150px;
+    background-color: #05FF00;
+    display: inline-block;
+}
+#d4{
+    width: 100px;
+    height: 150px;
+    background-color: #0500FF;
+    display: inline-block;
+}
+#d5{
+    width: 100px;
+    height: 150px;
+    background-color: #FA00FF;
+    display: inline-block;
+}
+#d6{
+    width: 100px;
+    height: 150px;
+    background-color: #00FFF0;
+    display: inline-block;
+}
